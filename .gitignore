@@ -1,0 +1,19 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Build folders
+/bin/
+/obj/
+
+# Vendor
+/vendor/
+
+# Env files
+.env
+
+# Logs
+*.log
